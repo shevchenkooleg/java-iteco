@@ -13,6 +13,5 @@ public class Main {
         System.out.println("____/_|________|_\\______");
         System.out.println("______|__---___|________");
         System.out.println("______|__|_|___|________");
-
     }
 }
