@@ -1,11 +1,9 @@
-import Module_1.Task1;
-import Module_1.Task2;
+import Module_2.Task1;
 
 
 public class Main {
 
     public static void main(String[] args) {
-        Task1.paintPicture();
-        Task2.showFString();
+        Task1.singleParityArray();
     }
 }
